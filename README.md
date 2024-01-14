@@ -1,2 +1,2 @@
 # Sebastiao Alves
- My final project for Codemaster Fullstack Web Developer course
+ My final project for *Fullstack Web Developer* course by **Codemaster**
